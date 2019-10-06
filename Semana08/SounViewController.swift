@@ -9,7 +9,7 @@
 import UIKit
 import AVFoundation
 class SounViewController: UIViewController {
-
+    //outlets
     @IBOutlet weak var recordButton: UIButton!
     @IBOutlet weak var nameTextFile: UITextField!
     
